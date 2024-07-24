@@ -52,19 +52,19 @@ TThe fisrt part of the project was to improve and normalize the table where user
 
 ## Normalization and Constratins BEFORE
 
-[!Normalization Before](https://github.com/LizzyTrevisan/Co-working-Database-Project/blob/main/ERD_Group%20Project.pdf)
+[Normalization Before](https://github.com/LizzyTrevisan/Co-working-Database-Project/blob/main/ERD_Group%20Project.pdf)
 
 ## ERD BEFORE
-[!ERD Before](https://github.com/LizzyTrevisan/Co-working-Database-Project/blob/main/ERD_Group%20Project.pdf)
+[ERD Before](https://github.com/LizzyTrevisan/Co-working-Database-Project/blob/main/ERD_Group%20Project.pdf)
 
 
 ## Normalization and Constratins AFTER
-[!Normalization After](https://github.com/LizzyTrevisan/Co-working-Database-Project/blob/main/Tables%20reevaluated%20after%20FeedBack.pdf)
+[Normalization After](https://github.com/LizzyTrevisan/Co-working-Database-Project/blob/main/Tables%20reevaluated%20after%20FeedBack.pdf)
 
 ## ERD AFTER
 
 
-[!ERD After](https://github.com/LizzyTrevisan/Co-working-Database-Project/blob/main/FINAL%20ERD.pdf)
+[ERD After](https://github.com/LizzyTrevisan/Co-working-Database-Project/blob/main/FINAL%20ERD.pdf)
 
 
 ## Prerequisites
