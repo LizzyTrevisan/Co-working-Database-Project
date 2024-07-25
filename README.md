@@ -47,7 +47,7 @@ The Minimum Viable Product (MVP) is the smallest conceivable list of features th
 
 8.	As a coworker, I can get the contact information of a workspace owner (name, phone, and email).
 
-## Instrutor's Feedback: 
+## Instructor's Feedback: 
 The first part of the project was to improve and normalize the table where user would be able ot search for the address, type of rental, Lease, in an efficient way for the queries. Therefore, FK tables were created to support the  PK tables and columns were added to support a different way of adding and searching for the address.
 
 ## Normalization and Constratins BEFORE
