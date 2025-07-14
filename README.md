@@ -10,12 +10,6 @@ Repository of CoWorking Datase
 - [Document Github](https://github.com/LizzyTrevisan/Co-working-Database-Project.git)
 ## 📔 Documents
 
-| Machine Language | Program |
-| ------- | ------------ |
-| MySQL | CoWorking Group Project | 
-
-
-
 ## CoWorking Database Group Project
 
 
