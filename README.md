@@ -44,7 +44,3 @@ The Minimum Viable Product (MVP) is the smallest conceivable list of features th
 
 
 
-
-
-##Contact
-Your Name - @Leiziane Trevisan - leiziane.trevisan@gmail.com
