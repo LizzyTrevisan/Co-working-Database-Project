@@ -41,33 +41,10 @@ The Minimum Viable Product (MVP) is the smallest conceivable list of features th
 
 8.	As a coworker, I can get the contact information of a workspace owner (name, phone, and email).
 
-## Instructor's Feedback: 
-The first part of the project was to improve and normalize the table where user would be able ot search for the address, type of rental, Lease, in an efficient way for the queries. Therefore, FK tables were created to support the  PK tables and columns were added to support a different way of adding and searching for the address.
-
-## Normalization and Constratins BEFORE
-
-[Normalization Before](https://github.com/LizzyTrevisan/Co-working-Database-Project/blob/main/ERD_Group%20Project.pdf)
-
-## ERD BEFORE
-[ERD Before](https://github.com/LizzyTrevisan/Co-working-Database-Project/blob/main/ERD_Group%20Project.pdf)
 
 
-## Normalization and Constratins AFTER
-[Normalization After](https://github.com/LizzyTrevisan/Co-working-Database-Project/blob/main/Tables%20reevaluated%20after%20FeedBack.pdf)
-
-## ERD AFTER
 
 
-[ERD After](https://github.com/LizzyTrevisan/Co-working-Database-Project/blob/main/FINAL%20ERD.pdf)
-
-
-## Prerequisites
-
-SQL Server Management Studio
-
-
-## License
-Distributed under the MIT License. See LICENSE for more information.
 
 ##Contact
 Your Name - @Leiziane Trevisan - leiziane.trevisan@gmail.com
